@@ -1,0 +1,15 @@
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.csproj.AssemblyReference.cache
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.AssemblyInfoInputs.cache
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.AssemblyInfo.cs
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.csproj.CoreCompileInputs.cache
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\bin\Debug\net7.0\mis-221-lab-4-Mdrichey2.exe
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\bin\Debug\net7.0\mis-221-lab-4-Mdrichey2.deps.json
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\bin\Debug\net7.0\mis-221-lab-4-Mdrichey2.runtimeconfig.json
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\bin\Debug\net7.0\mis-221-lab-4-Mdrichey2.dll
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\bin\Debug\net7.0\mis-221-lab-4-Mdrichey2.pdb
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.dll
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\refint\mis-221-lab-4-Mdrichey2.dll
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.pdb
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\mis-221-lab-4-Mdrichey2.genruntimeconfig.cache
+C:\Users\riche\MIS Lab\Lab 4\mis-221-lab-4-Mdrichey2\obj\Debug\net7.0\ref\mis-221-lab-4-Mdrichey2.dll
